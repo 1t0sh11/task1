@@ -16,4 +16,5 @@ void task1::y()
 void B::c()
 {
 	a1++;
+	cout << a1 << endl;
 }
