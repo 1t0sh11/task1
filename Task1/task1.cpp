@@ -10,7 +10,7 @@ void task1::y()
 {
 	a++;
 	int a1 = a;
-	cout << a << endl;
+	cout << a1 << endl;
 }
 
 void B::c()
