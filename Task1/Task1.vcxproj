@@ -22,6 +22,7 @@
     <ClInclude Include="task1.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="task1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
