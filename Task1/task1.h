@@ -5,16 +5,16 @@ class A :
     public:
 {
     int a;
-    void x();
+    void x(int a);
 };
 class task1:
     public A
 {
-    void y();
+    void y(int a);
 };
 
 class B :
     public task1
 {
-    void c();
+    void c(int a, int a1);
 };
